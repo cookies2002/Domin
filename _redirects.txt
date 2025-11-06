@@ -1,0 +1,1 @@
+/file/*   https://vignesh-v2-e03862856b16.herokuapp.com/file/:splat   200
